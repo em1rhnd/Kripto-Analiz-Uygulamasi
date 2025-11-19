@@ -1,0 +1,6 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Dark Mode -->
+    <item android:drawable="@color/aiCardDark" android:state_activated="true"/>
+    <!-- Light Mode -->
+    <item android:drawable="@color/aiCardLight"/>
+</selector>

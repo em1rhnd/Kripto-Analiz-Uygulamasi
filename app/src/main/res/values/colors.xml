@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Varsayılan renkler -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple_500">#6200EE</color>
+    <color name="bannerGray">#D6D6D6</color>
+
+    <!-- Tema renkleri (Light) -->
+    <color name="background_main">#FFFFFF</color>
+    <color name="card_bg">#F4F4F4</color>
+    <color name="text_main">#000000</color>
+
+    <!-- Eksik olan renkler -->
+    <color name="aiCardLight">#F4F4F4</color>
+    <color name="aiCardDark">#1E1E1E</color>
+</resources>
