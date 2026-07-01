@@ -107,7 +107,3 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 }
-//emirhan.d4158@gmail.com
-//Emirhandgn41.
-
-//profil olacak favori coin olacak profilde göstericek haftaya kadar
